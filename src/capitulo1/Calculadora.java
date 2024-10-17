@@ -6,6 +6,8 @@ public class Calculadora {
 		// TODO Auto-generated method stub
 		System.out.println("Calculadora");
 		System.out.println("Suma");
+		
+		System.out.println("Multiplicacion");
 	}
 
 }
